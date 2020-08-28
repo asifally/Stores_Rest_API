@@ -1,8 +1,8 @@
 ## A RESTful API for Stores
 
-'''
-pip install Flask-RESTful
-'''
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+
+Deployed with Heroku.
 
 # Implementation
 
