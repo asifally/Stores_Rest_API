@@ -1,0 +1,1 @@
+BLACKLIST = set() # user_id's that will be denied access
